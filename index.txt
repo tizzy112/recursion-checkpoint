@@ -1,0 +1,8 @@
+PROBLEM:
+  Test if a palindrome word can be read from left to right
+
+  solution:
+
+  word = [r, a, d, a, r]
+
+  step 1 = [r, a, d, a, r]
